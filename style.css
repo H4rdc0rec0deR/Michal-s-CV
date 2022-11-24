@@ -1,0 +1,171 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #f5f7fa;
+}
+
+aside {
+    width: 370px;
+    background: #1e2939;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.header-secondary {
+    color: #ffffff;
+}
+
+.list {
+    padding-left: 0px;
+    list-style-position: inside;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-top: 8px;
+}
+
+.list-secondary {
+    color: #fb6d3a;
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.list-secondary-item {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.photo {
+    margin-top: 25px;
+    margin-bottom: 0px;
+    width: 370px;
+}
+
+.contact-links {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.contact-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+
+.techskills-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.softskills-block {
+    margin-top: 44px;
+    margin-left: 40px;
+}
+
+main {
+    padding: 102px 217px 102px 88px;
+}
+
+.main-description {
+    width: 450px;
+    text-align: justify;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 24px;
+    margin-top: 19px;
+}
+
+.michal-block-tekst {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 40px;
+}
+
+.projects-block {
+    width: 485px;
+    margin-bottom: 51px;
+}
+
+.list-primary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.list-primary-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.header-primary {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+
+.job-position {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 11px;
+}
+
+.final-touchxo {
+    color: #fb6d3a;
+}
+
+.job-date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin-top: 11px;
+    margin-bottom: 8px;
+}
+
+.szkola {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.kierunek {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.eduaction-block {
+    margin-top: 43px;
+}
+
+.managerglory-llc-block {
+    margin-bottom: 43px;
+}
